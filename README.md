@@ -1,5 +1,5 @@
 # EconomySim
-This is a economy simulation coded in java. It simulates supply-demand, tax and share holding&amp;Investing.
+This is an economy simulation coded in java. It simulates supply-demand, tax and share holding&amp;Investing.
 
 # How it works?
 Tax: You will be taxed on the amount of money you have. Some of the things that will effect your taxing is if you own shares and how much money you have stored in the bank.  
